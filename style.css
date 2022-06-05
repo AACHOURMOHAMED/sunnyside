@@ -15,14 +15,14 @@
   margin-top: 20px;
 }
 
-.nav-div {
+.header-nav {
   display: none;
 }
 
 /* Header-section-end  */
 
 /* main-section-start */
-.main-title {
+.main-content {
   margin-top: 30px;
   display: flex;
   flex-direction: column;
